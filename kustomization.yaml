@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: ymlee.azurecr.ioymlee2free/edu19
+- name: ymlee.azurecr.io/ymlee2free/edu19
   newTag: "master"
